@@ -1,8 +1,3 @@
-- blackpandalancer
-token: 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
-
-
-Profile(readme.md)
 <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50" align="right"/> 
 <div id="badges">
   <a href="https://komarev.com/ghpvc/?username=BlackPandalancer" align="left">
