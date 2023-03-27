@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Upwork**
 
-- 🌱 I’m currently Golang **Laravel**
+- 🌱 I’m currently Learning **GORang**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
