@@ -1,18 +1,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
-<h3 align="center">Backend PHP with Laravel Framework Developer & Expert in WordPress</h3>
+<h3 align="center">Backend PHP with Laravel Framework Developer & Expert in React</h3>
 <img height="350px" margin-top="20px" margin-bottom="20px" align="right" src="https://i.pinimg.com/originals/bc/bc/bc/bcbcbc82af6091ad057fb9274259bc7d.gif" alt="Sajal Islam Sajid">
 
 
 
-- 🔭 I’m currently working on **Fiverr**
+- 🔭 I’m currently working on **Upwork**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently Golang **Laravel**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 💬 Ask me about **PHP, MySQL, Laravel and WordPress**
+- 💬 Ask me about **PHP, MySQL, Laravel and React**
 
 - ⚡ Fun fact **I love to motivate people**
 
