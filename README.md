@@ -1,7 +1,9 @@
+
+
 <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50" align="right"/> 
 <div id="badges">
-  <a href="https://komarev.com/ghpvc/?username=BlackPandalancer" align="left">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <a href="https://komarev.com/ghpvc/?username=superstarlancer" align="left">
+    <img src="https://komarev.com/ghpvc/?username=superstarlancer&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
@@ -9,67 +11,137 @@
         Thanks for visiting my Github profile. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&width=800&height=40&lines=%F0%9F%8C%9E+%F0%9D%93%95%F0%9D%93%BE%F0%9D%93%B5%F0%9D%93%B5-%F0%9D%93%A2%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%B4+%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB;%F0%9F%8C%9E+%F0%9D%93%90%F0%9D%93%98+%F0%9D%93%94%F0%9D%93%B7%F0%9D%93%B0%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AE%F0%9D%93%AE%F0%9D%93%BB;%F0%9F%8C%9E++%F0%9D%93%97%F0%9D%94%82%F0%9D%93%AB%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AD+%F0%9D%93%9C%F0%9D%93%B8%F0%9D%93%AB%F0%9D%93%B2%F0%9D%93%B5%F0%9D%93%AE+%F0%9D%93%90%F0%9D%93%B9%F0%9D%93%B9+%F0%9D%93%AD%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&width=850&lines=Full-Stack+Developer;Laravel+%26+PHP+Expert;MERN+Stack+Expert;Three.js+%26+WebGL+%26+Phaser.js+;Python+and+Ruby+on+Rails)](https://git.io/typing-svg)
 
-<div align='right'>
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300" align="right"/> 
-</div>
+<div align="center">
+  <img src="./divider1.png" alt="divider"/>
+</div> 
 
-&nbsp;&nbsp;<h3><img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 <h3>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Build 30+ custom interfaces using the Periodic API. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Wrote 200+ unit tests to verify the functionality of user interfaces, back-end processing, connectivity, and relational database intreactions. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Developed web applications and components using Angular, React, including software testing practices. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Laravel, CI, PHP, VUE.js SQL Expert. <br>
+<h3 align="center"><img src="./code.gif" height="20"/> Skills</h3>
 
-<div>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg"></code>
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"></code>
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webflow/webflow-original.svg"></code>
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
-</div>
-  <br>
-  <br>
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Mobile<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/-HTML/CSS-008a00" /> 
+        <img src="https://img.shields.io/badge/-React-008a00" /> 
+        <img src="https://img.shields.io/badge/-Js/Ts-008a00" />
+        <img src="https://img.shields.io/badge/-Vue-008a00" /> 
+        <img src="https://img.shields.io/badge/-Angular-008a00" /> 
+        <img src="https://img.shields.io/badge/-Shopify-008a00" /> 
+        <img src="https://img.shields.io/badge/-WordPress-008a00" /> 
+        <img src="https://img.shields.io/badge/-WebFlow-008a00" /> 
+        <img src="https://img.shields.io/badge/-Chart-008a00" />
+        <img src="https://img.shields.io/badge/-Canvas-008a00" />
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/-PHP-0050ef" /> 
+        <img src="https://img.shields.io/badge/-Laravel-0050ef" /> 
+        <img src="https://img.shields.io/badge/-CI-0050ef" /> 
+        <img src="https://img.shields.io/badge/Node.js-0050ef" /> 
+        <img src="https://img.shields.io/badge/Express-0050ef" /> 
+        <img src="https://img.shields.io/badge/Nest.js-0050ef" /> 
+        <img src="https://img.shields.io/badge/-Gorang-0050ef" /> 
+        <img src="https://img.shields.io/badge/Django-0050ef" /> 
+        <img src="https://img.shields.io/badge/Python-0050ef" />      
+        <img src="https://img.shields.io/badge/Ruby-0050ef" /> 
+      </td>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Android-a0522d" /> 
+        <img src="https://img.shields.io/badge/ReactNative-a0522d" /> 
+        <img src="https://img.shields.io/badge/Flutter-a0522d" /> 
+        <img src="https://img.shields.io/badge/Swift-a0522d" /> 
+        <img src="https://img.shields.io/badge/Kotlin-a0522d" /> 
+        <img src="https://img.shields.io/badge/-Java-a0522d" />
+      </td>
+    </tr>
+  </table>
   
-<div align='right'>
-  <img src="https://media.giphy.com/media/8f3nS1Gajtv70qNicE/giphy.gif" width="300" align="right"/> 
+ <table>
+    <tr>
+      <td valign="center" width="100px"><b>Blockchain<b></td>
+      <td valign="center" width="100px"><b>Design<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
+        <img src="https://img.shields.io/badge/Solidity-blue" /> 
+        <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
+        <img src="https://img.shields.io/badge/Solana-blue" /> 
+        <img src="https://img.shields.io/badge/Golang-blue" /> 
+        <img src="https://img.shields.io/badge/Rust-blue" /> 
+        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
+        <img src="https://img.shields.io/badge/Bitcoin-blue" />
+      </td>
+     <td valign="center" align="center" width="300px">
+       <img src="https://img.shields.io/badge/Photoshop-blue" /> 
+       <img src="https://img.shields.io/badge/Adobe XD-blue" /> 
+       <img src="https://img.shields.io/badge/Figma-blue" /> 
+       <img src="https://img.shields.io/badge/Blender-blue" /> 
+       <img src="https://img.shields.io/badge/WebGL-blue" /> 
+       <img src="https://img.shields.io/badge/Three.js-blue" /> 
+      </td>
+    </tr>
+  </table>
 </div>
 
-&nbsp;&nbsp;<h3><img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> 𝓗𝔂𝓫𝓻𝓲𝓭 𝓜𝓸𝓫𝓲𝓵𝓮 𝓐𝓹𝓹 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 <h3>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Android developer responsible for full app life-cycle: concept, design, build, test, deploy and release to the app store. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Implemented marketing strategies which resulted in 12% growth of customer base. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Writing the unit test cases across multiple browsers, platforms, and devices, including smartphones and tablet. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Building React native application utilizing Redux for enhanced maintainability. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Developed a mobile app for the company's primary service for visualizing data and reading industry news. <br>
+<div align="center">
+  <img src="./divider2.png" alt="divider"/>
+</div>    
+<!--    
+<div align="center">
+  <img src="./portfolio.png" alt="Portfolio"/>
+</div> 
+
+<div align="center">
+  <img src="./divider1.png" alt="divider"/>
+</div>  -->
 
 
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"></code>
+<!-- Contribution Details -->
+#
+<p align="center">
+ <b><i>CONTRIBUTION DETAILS</i></b>
+</p>
+<div align="center" title="8KLancer's Contribution Details">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=superstarlancer" align="center">
+
+</div>
+
+<!-- GitHub Stats -->
+#
+<p align="center">
+ <b><i>GITHUB STATS</i></b>
+</p>
+<div align="center" title="8KLancer's GitHub Stats">
+
+<img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=superstarlancer&show_icons=true&count_private=true"/>
+
+</div>
+
+<!--
+<a href="https://github.com/8KLancer/github-readme-activity-graph"><img alt="8KLancer's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=8KLancer&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+-->
+</p>
+   
+        
+<h2 align="center"> Thanks for visiting my profile. </h2>        
     
-
-<div align='right'>
- <img src="https://media.giphy.com/media/QyJTDR8VkUtyKHNPm9/giphy.gif" width="300" align="right"/> 
-</div>
-
-&nbsp;&nbsp;<h3><img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> 𝓐𝓘 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 <h3>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Experience with debugging and building fielded AI applications. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Define a use-case scenario for a robot serving coffee and cinnamon bun <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Develop vision detection of human, cup, bun and saucer <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Develop controls for locomotion, grasping, positioning and placing items. <br>
-
-
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg"></code></code>
+<!-- Copyright -->
+<div align="center"><b>© 2017 Bogdan</b></div>
+        
+<p align="center">
+<img width=100% title="#superstarlancer" alt="#superstarlancer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=8KLancer&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
   
+</p>
+
+
+
+
+
